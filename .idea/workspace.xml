@@ -1,12 +1,196 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47fec947-b597-40c4-a086-f12cdce30338" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Databases_pj02/LinHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj02/LinHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj03/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj03/Table.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj04/Query.java" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj04/Query.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/app/Module.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/app/controllers/AsyncController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/app/controllers/CountController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/app/controllers/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/app/controllers/LoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/app/controllers/TableController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/app/controllers/TestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/app/filters/ExampleFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/app/services/ApplicationTimer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/app/services/AtomicCounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/app/services/Counter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/app/services/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/app/services/PasswordStorage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/app/util/DaoUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/app/views/hello.scala.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/app/views/index.scala.html" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/app/views/index.scala.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/app/views/main.scala.html" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/app/views/main.scala.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/app/views/profs.scala.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/app/views/table.scala.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/app/views/welcome.scala.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/conf/application.conf" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/conf/application.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/conf/routes" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/conf/routes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/logs/application.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/project/plugins.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/project/plugins.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/project/target/scala-2.12/sbt-1.0/resolution-cache/default/databases_pj05-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/project/target/scala-2.12/sbt-1.0/resolution-cache/default/databases_pj05-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/project/target/scala-2.12/sbt-1.0/resolution-cache/default/databases_pj05-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/project/target/scala-2.12/sbt-1.0/resolution-cache/default/databases_pj05-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-databases_pj05-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-databases_pj05-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-databases_pj05-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-databases_pj05-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-databases_pj05-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-databases_pj05-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-databases_pj05-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-databases_pj05-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-databases_pj05-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-databases_pj05-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-databases_pj05-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-databases_pj05-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-databases_pj05-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-databases_pj05-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-databases_pj05-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-databases_pj05-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-databases_pj05-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-databases_pj05-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-databases_pj05-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-databases_pj05-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-databases_pj05-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-databases_pj05-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/project/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/project/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/.history" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/classes/application.conf" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/classes/application.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/classes/controllers/ReverseAsyncController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/classes/controllers/ReverseAsyncController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/classes/controllers/ReverseCountController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/classes/controllers/ReverseCountController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/classes/controllers/ReverseHomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/classes/controllers/ReverseHomeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/classes/controllers/javascript/ReverseAsyncController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/classes/controllers/javascript/ReverseAsyncController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/classes/controllers/javascript/ReverseCountController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/classes/controllers/javascript/ReverseCountController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/classes/controllers/javascript/ReverseHomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/classes/controllers/javascript/ReverseHomeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/classes/router/Routes$$anonfun$routes$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/classes/router/Routes$$anonfun$routes$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/classes/router/Routes.class" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/classes/router/Routes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/classes/routes" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/classes/routes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/classes/views/html/hello$.class" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/classes/views/html/hello$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/classes/views/html/index$.class" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/classes/views/html/index$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/classes/views/html/main$.class" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/classes/views/html/main$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/classes/views/html/welcome$.class" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/classes/views/html/welcome$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/play-java-starter-example/play-java-starter-example_2.12/1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/play-java-starter-example/play-java-starter-example_2.12/1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/play-java-starter-example/play-java-starter-example_2.12/1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/play-java-starter-example/play-java-starter-example_2.12/1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-debian.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-debian.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-docker.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-docker.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-linux.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-linux.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-rpm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-rpm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-universal-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-universal-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-universal-src.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-universal-src.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-universal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-universal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-windows.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/resolution-cache/reports/play-java-starter-example-play-java-starter-example_2.12-windows.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/routes/main/controllers/routes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/routes/main/controllers/routes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/routes/main/router/Routes.scala" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/routes/main/router/Routes.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/routes/main/router/RoutesPrefix.scala" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/routes/main/router/RoutesPrefix.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/twirl/main/views/html/hello.template.scala" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/twirl/main/views/html/hello.template.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/twirl/main/views/html/index.template.scala" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/twirl/main/views/html/index.template.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/twirl/main/views/html/main.template.scala" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/twirl/main/views/html/main.template.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/twirl/main/views/html/welcome.template.scala" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/scala-2.12/twirl/main/views/html/welcome.template.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/streams/$global/$global/$global/streams/sync-exported-assets-web-assets" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/streams/$global/$global/$global/streams/sync-exported-assets-web-assets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/streams/$global/playCommonClassloader/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/streams/$global/playCommonClassloader/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/streams/compile/compile/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/streams/compile/compile/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/streams/compile/playEnhancerGenerateAccessors/$global/streams/play_instrumentation_2.12" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/streams/compile/playEnhancerGenerateAccessors/$global/streams/play_instrumentation_2.12" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/streams/compile/playEnhancerRewriteAccessors/$global/streams/play_instrumentation_2.12" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/streams/compile/playEnhancerRewriteAccessors/$global/streams/play_instrumentation_2.12" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/streams/compile/playRoutes/$global/streams/op-cache" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/streams/compile/playRoutes/$global/streams/op-cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databases_pj05/target/streams/web-assets/assets/$global/streams/sync-assets-web-assets" beforeDir="false" afterPath="$PROJECT_DIR$/Databases_pj05/target/streams/web-assets/assets/$global/streams/sync-assets-web-assets" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1691259280">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Bookstore" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="735" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Portfolio" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="SbtLocalSettings">
     <option name="projectSyncType">
@@ -17,6 +201,46 @@
         <entry key="$USER_HOME$/Databases_pj05" value="PREVIEW" />
       </map>
     </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47fec947-b597-40c4-a086-f12cdce30338" name="Default Changelist" comment="" />
+      <created>1550454541411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550454541411</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.120272316" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
