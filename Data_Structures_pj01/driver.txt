@@ -1,0 +1,14 @@
+#include "Vector.h"
+
+int main(){
+	Vector v(3);
+	cout << v.getLength() << endl;
+	
+	for(int i = 0; i < v.getLength(); i++{
+		v.at(i)
+	}
+	
+	
+	
+	v.at(1) = 10;
+}

@@ -1,0 +1,12 @@
+Henry Roberts (newer.cpp and forkpid.cpp)
+811324668
+Bradley Pierson (size.cpp and dirlist.cpp)
+Project 3
+Instructions
+To compile, type make to run the 
+makefile. Then, type $./newer 
+followed by an option, -a to compare 
+access times, -m for modification 
+times, or -c for status change times, 
+followed by two files to compare.
+Run forkpid by typing ./forkpid.
